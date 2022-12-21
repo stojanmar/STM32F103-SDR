@@ -7,7 +7,8 @@ and further connected to audio amplifier.
 Special care to avoid unwanted noise comming from supportive circuits was taken. For example a power supply does not include any switching ICs.
 I an Q signals are captured using two ADC channels configured to highes possible speed. 
 In the digital filtering where the Hilbert coefitients have been used, a special trick to reduce the number of multiplications in the convolution  process has been reduced, so the smaller computational power of the selected microcontroller can bring acceptable result.
-The approach was very basic and can deffinitely be improoved. 
+For the interface a Nextion display communicates everithing through RS232 port.
+The approach was very basic and can deffinitely be improved. 
 Currently this work has no further improovement plan at least at my side.
 The link to working protoype :
 https://www.youtube.com/watch?v=-c7fZPpSIDY&ab_channel=stojanmarkic
