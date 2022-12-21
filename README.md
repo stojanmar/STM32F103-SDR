@@ -9,4 +9,5 @@ I an Q signals are captured using two ADC channels configured to highes possible
 In the digital filtering where the Hilbert coefitients have been used, a special trick to reduce the number of multiplications in the convolution  process has been reduced, so the smaller computational power of the selected microcontroller can bring acceptable result.
 The approach was very basic and can deffinitely be improoved. 
 Currently this work has no further improovement plan at least at my side.
-The link to working protoype : https://www.youtube.com/watch?v=-c7fZPpSIDY&ab_channel=stojanmarkic
+The link to working protoype :
+https://www.youtube.com/watch?v=-c7fZPpSIDY&ab_channel=stojanmarkic
